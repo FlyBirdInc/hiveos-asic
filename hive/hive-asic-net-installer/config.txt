@@ -1,6 +1,6 @@
 # Put the required values here
 
-FARM_HASH=123
+FARM_HASH=11cfbefd8146afec3cec30e9f04dc04f316a62c6
 HIVE_HOST_URL='http://api.hiveos.farm'
 
 LOGIN=root
